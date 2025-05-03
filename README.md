@@ -1,16 +1,27 @@
-## Hi there 👋
+ About Me
 
-<!--
-**jyothymolvt/jyothymolvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a DevOps Engineer with a strong background in Linux system administration and hands-on experience with a wide range of DevOps tools and cloud platforms.
 
-Here are some ideas to get you started:
+🔧 Tools & Technologies I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Configuration Management: Ansible
+
+    Infrastructure as Code: Terraform
+
+    Cloud: AWS (EC2, S3, IAM, CloudFormation, etc.)
+
+    Containerization: Docker
+
+    CI/CD: Jenkins, GitHub Actions
+
+    OS: Linux (Ubuntu, CentOS, RHEL)
+
+🚀 I’m passionate about automating infrastructure, streamlining deployment processes, and building reliable, scalable systems.
+
+Always learning. Always building.
+Let’s connect and collaborate!
+
+
+
+
+
