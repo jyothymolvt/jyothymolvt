@@ -1,6 +1,6 @@
- About Me
+ **About Me**
 
-Hi there! I'm a DevOps Engineer with a strong background in Linux system administration and hands-on experience with a wide range of DevOps tools and cloud platforms.
+Hi there! I'm a **DevOps Engineer** with a strong background in **Linux system administration** and hands-on experience with a wide range of **DevOps tools** and **cloud platforms.**
 
 🔧 Tools & Technologies I work with:
 
